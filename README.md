@@ -1,4 +1,4 @@
-# shortcuts-actions-gallery
+# Shortcuts Actions Gallery
 
 因 Shortcut 的 iCloud 链接不便于管理及更新，故建此仓库收录本人所编写 Shortcut 动作，以满足历史版本、更新日志等需要。
 

@@ -8,4 +8,4 @@
 
 [想更优雅地分享 Wi-Fi 密码，只需一枚二维码](https://sspai.com/post/43097)
 
-![title](img.GIF)
+![title](img.PNG)

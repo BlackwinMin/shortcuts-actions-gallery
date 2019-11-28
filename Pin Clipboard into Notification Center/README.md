@@ -4,6 +4,6 @@
 
 [v1.1(less steps, same function)](https://www.icloud.com/shortcuts/403f4bfdf5034424846380269ff4490d)
 
-[v1.1(Now you can send link to reading list without open Safari)](https://www.icloud.com/shortcuts/0a0b724fff0a41129028684c27ad2342)
+[v1.2(Now you can send link to reading list without open Safari)](https://www.icloud.com/shortcuts/0a0b724fff0a41129028684c27ad2342)
 
 ![title](img.PNG)

@@ -4,4 +4,4 @@
 
 目前精力有限，只能陆续为每个动作编写简单地的说明文档，以提供必要的效果展示和使用注意。
 
-已订阅的读者可阅读原文，或者通过 Slack 向我提问。阅读文章请前往 [utgd.net](https://utgd.net)。
+阅读文章请前往 [utgd.net](https://utgd.net)，您也可以通过 [Slack 频道](https://utgd.net/member-community) 与我直接交流。

@@ -7,3 +7,4 @@ Photos for macOS 可以创建智能相簿，而 iOS 素来只能吞口水——�
 出处：[《用 Shortcuts 在 iOS 设备上创建智能相簿：以找回相机胶卷为例 - #Untag》](https://utgd.net/article/8475)
 
 ![title](img.png)
+/Users/Min/WORKSPACE_UNTAG/UNTAG Timeline/KM 一颗开关/Index.md

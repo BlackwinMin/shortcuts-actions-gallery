@@ -4,6 +4,6 @@
 
 [Shortcuts 动作下载](https://www.icloud.com/shortcuts/3db33550d1a0436f81f482f00fa9532f)
 
-出处：[《iOS&macOS 通用字数统计方案（Shortcuts） - #Untag》（即将发布）](https://utgd.net)。
+出处：[《iOS&macOS 通用字数统计方案（Shortcuts） - #Untag》](https://utgd.net/article/9439)。
 
 ![title](img.jpeg)

@@ -5,6 +5,6 @@
 - [Shortcuts 动作下载：创建倒数日](https://www.icloud.com/shortcuts/06752700599a4f82986843769b272aba)
 - [Shortcuts 动作下载：删除倒数日](https://www.icloud.com/shortcuts/3db69e626e1340178f5e75389bf60b25)
 
-出处：[《用 Shortcuts 在桌面做一个倒数日小部件》（预计春节前发布）](https://utgd.net/article/9693)。
+出处：[《用 Shortcuts 在桌面做一个倒数日小部件》](https://utgd.net/article/9693)。
 
 ![title](img.jpg)

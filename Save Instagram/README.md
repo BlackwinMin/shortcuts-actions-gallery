@@ -12,5 +12,6 @@
 - [v1.1](https://www.icloud.com/shortcuts/d180fb5cbcf64e1e8f5f81aa24178d74)：支持多张图片下载，可以选取所需的图片。
 - [v1.2](https://www.icloud.com/shortcuts/2a5ad06ddde94216951e52992cd431fa)：适配新 API，此版本会出现重复图片。
 - [v2.0](https://www.icloud.com/shortcuts/4b9868451b144fd5962c1faac87832b2)：为避免频繁更新，放弃使用 API。
+- [v2.1](https://www.icloud.com/shortcuts/5c7136004e0c412ea00ea0e3f67dd702)：Instagram 不再允许长按复制图片，现需连同图片前后的文字一起选中，方可运行本动作。
 
 ![title](img.png)

@@ -2,6 +2,6 @@
 
 Compatible with PNGs, JPGs and GIFs.
 
-[v1.0](https://www.icloud.com/shortcuts/e6c8a233bfa145aa8fbce6cbe5174f6c)
+[v1.0](https://www.icloud.com/shortcuts/ce4083fc18014930bf527d4e7cb69102)
 
 ![title](img.GIF)

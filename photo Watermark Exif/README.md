@@ -11,3 +11,9 @@
 出处：[《给照片添加“徕卡风格水印”，兼谈 Shortcuts 中的字典》](https://utgd.net/article/20147)（预计2023年5月中旬发布）。
 
 ![title](img.jpeg)
+
+![title](sample_GR_1.jpeg)
+
+![title](sample_GR_2.jpeg)
+
+![title](sample_iPhone.jpeg)

@@ -1,6 +1,6 @@
 # Cal 从飞猪行程创建日历日程
 
-[Shortcuts 动作下载](https://www.icloud.com/shortcuts/6efd05908d0744bbb84cbb8eaa40662f)
+[Shortcuts 动作下载](https://www.icloud.com/shortcuts/db35058541ea4008a282d6045f4539fa)
 
 曾几何时，买完票、订完酒店就自动或者半自动添加日程，是再正常不过的事情：前有 Siri 帮你自动寻找日程，后有一些 Shortcuts 玩家将订票信息添加到日历。
 

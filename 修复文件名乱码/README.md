@@ -4,6 +4,6 @@
 
 下载：[Shortcuts 动作](https://www.icloud.com/shortcuts/92a0646cd24b4ffdb43cb88c5f2ec599)
 
-出处：[《用 Shortcuts 批量修复 %E4%B9%B1 类型的文件名乱码 - #Untag》（预计春节期间发布）](https://utgd.net/article/9927)。
+出处：[《用 Shortcuts 批量修复 %E4%B9%B1 类型的文件名乱码》](https://utgd.net/article/9927)。
 
 ![title](img.jpeg)

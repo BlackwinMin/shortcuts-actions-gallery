@@ -4,6 +4,6 @@
 
 [token shortcut v1.0](https://workflow.is/workflows/fbf23923a78a4aa4826c7a62e471409f)
 
-[[Paid]OCR 识别文字 | Workflow 定制 007](https://sspai.com/post/42643)
+我暂时失去了对出处文章的控制权，故不再显示原文链接。
 
 ![title](img.GIF)

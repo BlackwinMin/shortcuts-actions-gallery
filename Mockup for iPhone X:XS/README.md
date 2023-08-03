@@ -11,6 +11,6 @@
 
 [v3.0: Theoretically work fastest, what ever how many screencaptures or iOS devices shell materials you have](https://www.icloud.com/shortcuts/07d475af6fc044d2a8d52b8ea6213378)
 
-Credit: mockup part is designed by  [@Hum](https://sspai.com/user/681230/updates)
+Credit: mockup part is designed by  @Hum
 
 ![title](img.PNG)

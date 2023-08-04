@@ -7,6 +7,6 @@
 默认保留所有扫码记录到 Shortcuts 文件夹中，如无此需要，可删除相应步骤。
 
 - [Shortcuts 动作](https://www.icloud.com/shortcuts/6cb022cf36a942f694eae3bd49dbfcc5)
-- 原文：[《聚合扫码，用一个 Shortcuts 动作统一常用软件的扫码入口》](https://utgd.net/)（发布时间未定）。
+- 原文：[《聚合扫码，用一个 Shortcuts 动作统一常用软件的扫码入口》](https://utgd.net/article/20241)。
 
 ![img](img.gif)

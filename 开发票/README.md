@@ -7,6 +7,8 @@
 出处：[《用 Shortcuts 填写发票信息的半自动方案（微信为例）》](https://utgd.net)（发布时间未定）。
 
 - 简版请阅读原文，照图自制即可；
-- [多账户优化版](https://github.com/BlackwinMin/LaunchBar-gallery/tree/master/Video%20Add%20Cover)：适合需要存储多个开票账户且希望精简 Shortcuts 步骤的人士，同时，本动作也优化了选择界面的显示效果，但是需要具备一定的 Shortcuts 字典知识基础（可参阅[《给照片添加“徕卡风格水印”，兼谈 Shortcuts 中的字典》](https://utgd.net/article/20147/)一文）。
+- [多账户优化版](https://www.icloud.com/shortcuts/9c96d1302e184e5aa679a38d7fecfd05)：适合需要存储多个开票账户且希望精简 Shortcuts 步骤的人士，同时，本动作也优化了选择界面的显示效果，但是需要具备一定的 Shortcuts 字典知识基础（可参阅[《给照片添加“徕卡风格水印”，兼谈 Shortcuts 中的字典》](https://utgd.net/article/20147/)一文）。
+
+因本动作多次调用变量，而在系统升级和数据传输中，变量类型很可能会随机变动，如遇到无法获取词典数据的情况，请尝试将“Choosen Item”等变量的类型手动更改为 Text 甚至 Name。
 
 ![多账户优化版的效果](img.png)

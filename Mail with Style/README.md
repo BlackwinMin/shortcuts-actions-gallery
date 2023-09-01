@@ -6,7 +6,7 @@
 
 即便在过去，发出一封不规范的邮件也是不礼貌的；如今在自动化工具的帮助下，过去需要一项一项检查的工作也变得简单，如果仍然不注重邮件礼仪，则实在说不过去。
 
-- 原文：[《用 Shortcuts 一键发送个性化邮件》](https://utgd.net/article/20237)（发布时间暂定2023年9月）。
+- 原文：[《用 Shortcuts 一键发送个性化邮件》](https://utgd.net/article/20237)。
 - [通用版 Shortcuts 动作下载](https://www.icloud.com/shortcuts/fffbd3f38aaf4be785b2131bc9837597)
 
 Drafts 动作请复制段落下方 URL 到 Drafts 中后点击加载（需进入 Link Mode），浏览器很可能无法识别。Drafts 配套 Shortcuts 动作[点此下载](https://www.icloud.com/shortcuts/b6122dbe70ec41759d4891813540ea0e)。

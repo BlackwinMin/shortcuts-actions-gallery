@@ -4,7 +4,7 @@
 
 示例动作以微信为例，实际上可以应用于支付宝或其他几乎任何软件、小程序或网页。
 
-出处：[《用 Shortcuts 填写发票信息的半自动方案（微信为例）》](https://utgd.net/article/20446)（预计2023年11月发布）。
+出处：[《用 Shortcuts 填写发票信息的半自动方案（微信为例）》](https://utgd.net/article/20446)。
 
 - 简版请阅读原文，照图自制即可；
 - [多账户优化版](https://www.icloud.com/shortcuts/9c96d1302e184e5aa679a38d7fecfd05)：适合需要存储多个开票账户且希望精简 Shortcuts 步骤的人士，同时，本动作也优化了选择界面的显示效果，但是需要具备一定的 Shortcuts 字典知识基础（可参阅[《给照片添加“徕卡风格水印”，兼谈 Shortcuts 中的字典》](https://utgd.net/article/20147/)一文）。

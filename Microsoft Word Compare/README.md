@@ -5,7 +5,7 @@
 只选中一个文档或多于两个文档时会弹出相应提醒，不会进行比较。
 
 - [Shortcuts 动作下载](https://www.icloud.com/shortcuts/9a922416a1fe4bee8dd312d2b54c8b2e)
-- 相关文章：[《一键对比两个 Word 文档（附自动化）》](https://utgd.net)（发布时间未定）。
+- 相关文章：[《一键对比两个 Word 文档（附自动化）》](https://utgd.net/article/20694)（预计2024年5月中旬发布）。
 - [LaunchBar 版本](https://github.com/BlackwinMin/LaunchBar-gallery/tree/master/Microsoft%20Word%20Compare)
 - [Automator 版本](https://github.com/BlackwinMin/Automator-gallery/tree/master/Microsoft%20Word%20Compare)
 

@@ -1,5 +1,7 @@
 # image Crop 批量裁剪图片
 
+20240627：使用前请将 Shortcuts 动作中的“1125”和“2436”更改为您手机截图的实际分辨率。
+
 只需裁剪一次，即可将裁剪位置和区域大小套用到所有目标图片，批量操作：
 
 1. 在 Shortcuts App 内部运行本文动作；
@@ -13,6 +15,6 @@
 9. Shortcuts 自动处理目标图片尺寸数据，并自动结合方才获取的长和宽，统一裁剪所有最初选中的图片。
 
 - [Shortcuts 动作](https://www.icloud.com/shortcuts/9893013da8b64643aaef03c060316e5e)
-- 原文：[《如何用 Shortcuts 批量裁剪图片》（发布时间未定）](https://utgd.net/article/20241)。
+- 原文：[《如何用 Shortcuts 批量裁剪图片》）](https://utgd.net/article/20241)。
 
 ![img](img.png)

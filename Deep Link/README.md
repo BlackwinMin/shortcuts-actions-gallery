@@ -8,7 +8,7 @@
 
 打开链接的动作中填写了我的电脑路径 `/Users/Min/`，请修改成你的（我不确定 Shortcuts 中的 Shell 能不能识别相对路径，也不想改动，因为根据目前 Shortcuts 的薛定谔状态，任何修改都会导致动作无缘无故失效）。
 
-出处：《用 Shortcuts 制作 macOS&iOS 通用的文件链接》（发布时间未定）。
+出处：[《用 Shortcuts 制作 macOS&iOS 通用的文件链接》](https://utgd.net/article/21186/)。
 
 - [Shortcuts 动作下载：生成文件链接](https://www.icloud.com/shortcuts/c607429c39784002b51312ec85c847c7)
 - [Shortcuts 动作下载：打开文件链接](https://www.icloud.com/shortcuts/c2073f15b990407eb533d19f05535b79)

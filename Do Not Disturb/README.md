@@ -1,7 +1,7 @@
 # Do Not Disturb
 
-[v1.1( support for alarm clocks)](https://www.icloud.com/shortcuts/b6b8ba9bc671415f9b27cecbdc95fcef)
+[Shortcuts](https://www.icloud.com/shortcuts/4e8f053e3fbc4d38a9d60740dd4ac708)
 
-我暂时失去了对出处文章的控制权，故不再显示原文链接。
+出处：[《战术性睡眠及几个配套 Shortcuts 动作》](https://utgd.net/article/21359)
 
 ![title](img.PNG)

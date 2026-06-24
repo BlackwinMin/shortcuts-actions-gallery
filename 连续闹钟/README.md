@@ -1,7 +1,7 @@
 # 连续闹钟
 
-[v1.0](https://www.icloud.com/shortcuts/02d4238fa8d94771bdad34d5bf8de2d5)
+[Shortcuts](https://www.icloud.com/shortcuts/83bd324713b64aeeb2a9f9eb36df502d)
 
-我暂时失去了对出处文章的控制权，故不再显示原文链接。
+出处：[《战术性睡眠及几个配套 Shortcuts 动作》](https://utgd.net/article/21359)
 
 ![title](img.PNG)
